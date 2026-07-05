@@ -1,0 +1,251 @@
+Order_ID,Order_Date,Customer_Name,Segment,City,State,Category,Sub_Category,Product_Name,Price,Quantity,Discount,total_amount
+ORD-1000,2023-08-17,Customer_18,Home Office,Houston,TX,Technology,Laptop,Laptop Model-4,17.38,5.0,0.3,86.89999999999999
+ORD-1001,2023-04-06,Customer_28,Consumer,New York,NY,Technology,Laptop,Laptop Model-17,297.29,1.0,0.2,297.29
+ORD-1002,2023-08-14,Customer_58,Home Office,Miami,FL,Furniture,Table,Table Model-9,359.43,9.0,0.0,3234.87
+ORD-1003,2023-12-11,Customer_14,Consumer,Houston,TX,Furniture,Sofa,Sofa Model-13,173.42,3.0,0.0,520.26
+ORD-1004,2024-07-03,Customer_16,Corporate,Denver,CO,Office Supplies,Pen Set,Pen Set Model-3,303.84,1.0,0.2,303.84
+ORD-1005,2024-11-08,Customer_30,Corporate,New York,NY,Office Supplies,Pen Set,Pen Set Model-3,290.79,2.0,0.0,581.58
+ORD-1006,2024-01-15,Customer_46,Consumer,Chicago,IL,Furniture,Sofa,Sofa Model-9,253.13,6.0,0.3,1518.78
+ORD-1007,2023-06-17,Customer_60,Corporate,Houston,TX,Technology,Laptop,Laptop Model-9,306.52,3.0,0.3,919.56
+ORD-1008,2023-02-02,Customer_104,Corporate,Houston,TX,Technology,Monitor,Monitor Model-13,343.88,1.0,0.0,343.88
+ORD-1009,2023-08-06,Customer_84,Corporate,Seattle,WA,Furniture,Table,Table Model-13,457.0,10.0,0.3,4570.0
+ORD-1010,2024-08-21,Customer_55,Home Office,Phoenix,AZ,Office Supplies,Paper,Paper Model-13,136.12,4.0,0.0,544.48
+ORD-1011,2023-04-23,Customer_20,Home Office,New York,NY,Furniture,Table,Table Model-6,257.22,2.0,0.3,514.44
+ORD-1012,2024-06-25,Customer_33,Home Office,Denver,CO,Office Supplies,Binder,Binder Model-1,195.46,10.0,0.3,1954.6000000000001
+ORD-1013,2024-10-18,Customer_44,Consumer,Phoenix,AZ,Technology,Laptop,Laptop Model-10,342.45,9.0,0.1,3082.0499999999997
+ORD-1014,2024-06-03,Customer_117,Consumer,Chicago,IL,Furniture,Sofa,Sofa Model-10,6.61,5.0,0.3,33.050000000000004
+ORD-1015,2024-09-05,Customer_42,Corporate,Unknown,NY,Technology,Monitor,Monitor Model-1,80.66,3.0,0.0,241.98
+ORD-1016,2023-03-29,Customer_94,Corporate,Los Angeles,CA,Office Supplies,Pen Set,Pen Set Model-3,123.53,4.0,0.2,494.12
+ORD-1017,2023-09-29,Customer_68,Home Office,Chicago,IL,Furniture,Table,Table Model-14,331.58,9.0,0.0,2984.22
+ORD-1018,2024-03-24,Customer_116,Home Office,Seattle,WA,Technology,Monitor,Monitor Model-15,357.91,7.0,0.0,2505.3700000000003
+ORD-1019,2024-08-25,Customer_29,Consumer,Houston,TX,Furniture,Table,Table Model-3,36.69,1.0,0.3,36.69
+ORD-1020,2023-03-14,Customer_66,Consumer,Seattle,WA,Technology,Laptop,Laptop Model-9,118.33,1.0,0.3,118.33
+ORD-1021,2023-09-06,Customer_101,Corporate,Denver,CO,Office Supplies,Paper,Paper Model-14,271.92,10.0,0.0,2719.2000000000003
+ORD-1022,2024-02-25,Customer_60,Home Office,Miami,FL,Furniture,Chair,Chair Model-2,331.2,6.0,0.3,1987.1999999999998
+ORD-1023,2023-09-12,Customer_25,Consumer,Los Angeles,CA,Technology,Laptop,Laptop Model-18,35.0,6.0,0.1,210.0
+ORD-1024,2023-03-19,Customer_57,Home Office,Houston,TX,Furniture,Sofa,Sofa Model-4,95.83,8.0,0.0,766.64
+ORD-1025,2024-02-21,Customer_63,Corporate,Chicago,IL,Technology,Laptop,Laptop Model-7,484.65,4.0,0.1,1938.6
+ORD-1026,2024-04-10,Customer_37,Corporate,Phoenix,AZ,Furniture,Table,Table Model-18,192.59,7.0,0.3,1348.13
+ORD-1027,2023-03-01,Customer_75,Home Office,Houston,TX,Technology,Phone,Phone Model-18,81.62,5.0,0.0,408.1
+ORD-1028,2024-05-29,Customer_118,Home Office,Denver,CO,Technology,Printer,Printer Model-6,33.3,10.0,0.0,333.0
+ORD-1029,2024-11-22,Customer_111,Consumer,Los Angeles,CA,Technology,Laptop,Laptop Model-13,426.41,2.0,0.0,852.82
+ORD-1030,2024-03-05,Customer_85,Home Office,Los Angeles,CA,Technology,Monitor,Monitor Model-19,291.56,1.0,0.2,291.56
+ORD-1031,2023-09-29,Customer_51,Consumer,Houston,TX,Office Supplies,Pen Set,Pen Set Model-10,106.11,6.0,0.1,636.66
+ORD-1032,2023-03-17,Customer_69,Consumer,Los Angeles,CA,Office Supplies,Binder,Binder Model-17,9.61,10.0,0.0,96.1
+ORD-1033,2023-10-19,Customer_21,Corporate,Seattle,WA,Furniture,Bookcase,Bookcase Model-18,441.03,4.0,0.0,1764.12
+ORD-1034,2024-11-10,Customer_14,Consumer,Phoenix,AZ,Office Supplies,Binder,Binder Model-9,335.59,9.0,0.0,3020.31
+ORD-1035,2023-12-18,Customer_27,Home Office,Houston,TX,Furniture,Table,Table Model-9,139.81,10.0,0.2,1398.1
+ORD-1036,2024-10-11,Customer_55,Corporate,Los Angeles,CA,Office Supplies,Pen Set,Pen Set Model-2,453.14,1.0,0.0,453.14
+ORD-1037,2024-03-28,Customer_71,Home Office,Chicago,IL,Office Supplies,Paper,Paper Model-14,320.37,5.0,0.2,1601.85
+ORD-1038,2024-01-14,Customer_75,Home Office,New York,NY,Furniture,Chair,Chair Model-5,42.25,3.0,0.1,126.75
+ORD-1039,2023-08-04,Customer_88,Consumer,Seattle,WA,Furniture,Chair,Chair Model-4,157.59,1.0,0.0,157.59
+ORD-1040,2023-06-16,Customer_103,Consumer,Houston,TX,Technology,Phone,Phone Model-14,487.05,3.0,0.0,1461.15
+ORD-1041,2023-10-01,Customer_21,Home Office,Houston,TX,Furniture,Bookcase,Bookcase Model-4,392.28,7.0,0.1,2745.96
+ORD-1042,2023-11-09,Customer_106,Consumer,Seattle,WA,Furniture,Sofa,Sofa Model-8,115.1,8.0,0.0,920.8
+ORD-1043,2023-10-13,Customer_45,Home Office,Los Angeles,CA,Technology,Monitor,Monitor Model-17,202.24,5.0,0.1,1011.2
+ORD-1044,2023-07-02,Customer_75,Corporate,Phoenix,AZ,Technology,Printer,Printer Model-2,469.92,2.0,0.0,939.84
+ORD-1045,2024-09-12,Customer_66,Consumer,Miami,FL,Technology,Phone,Phone Model-13,176.12,6.0,0.2,1056.72
+ORD-1046,2024-06-16,Customer_119,Home Office,New York,NY,Furniture,Bookcase,Bookcase Model-7,26.97,7.0,0.0,188.79
+ORD-1047,2024-11-10,Customer_109,Consumer,Seattle,WA,Office Supplies,Binder,Binder Model-10,474.69,6.0,0.2,2848.14
+ORD-1048,2023-07-16,Customer_54,Home Office,Chicago,IL,Office Supplies,Stapler,Stapler Model-13,166.46,5.0,0.3,832.3000000000001
+ORD-1049,2024-07-15,Customer_107,Consumer,Miami,FL,Technology,Monitor,Monitor Model-10,309.68,5.0,0.0,1548.4
+ORD-1050,2024-04-21,Customer_57,Corporate,Seattle,WA,Furniture,Sofa,Sofa Model-7,393.95,10.0,0.0,3939.5
+ORD-1051,2023-04-06,Customer_105,Consumer,Seattle,WA,Office Supplies,Paper,Paper Model-10,331.13,5.0,0.0,1655.65
+ORD-1052,2024-09-17,Customer_109,Consumer,Denver,CO,Furniture,Table,Table Model-15,17.09,4.0,0.1,68.36
+ORD-1053,2024-02-14,Customer_32,Consumer,Denver,CO,Technology,Monitor,Monitor Model-1,360.58,7.0,0.0,2524.06
+ORD-1054,2023-02-21,Customer_72,Consumer,Denver,CO,Office Supplies,Paper,Paper Model-4,92.06,9.0,0.1,828.54
+ORD-1055,2024-03-29,Customer_79,Home Office,Seattle,WA,Furniture,Sofa,Sofa Model-17,335.45,9.0,0.1,3019.0499999999997
+ORD-1056,2023-09-23,Customer_97,Consumer,Denver,CO,Technology,Phone,Phone Model-9,449.12,8.0,0.2,3592.96
+ORD-1057,2023-08-29,Customer_35,Corporate,Phoenix,AZ,Office Supplies,Paper,Paper Model-11,140.93,2.0,0.2,281.86
+ORD-1058,2023-08-08,Customer_9,Corporate,Chicago,IL,Furniture,Table,Table Model-14,79.66,7.0,0.0,557.62
+ORD-1059,2024-02-03,Customer_116,Home Office,Miami,FL,Technology,Phone,Phone Model-1,210.81,4.0,0.2,843.24
+ORD-1060,2024-02-04,Customer_110,Corporate,Phoenix,AZ,Office Supplies,Stapler,Stapler Model-18,253.13,6.0,0.3,1518.78
+ORD-1061,2024-05-12,Customer_4,Corporate,Miami,FL,Technology,Monitor,Monitor Model-11,246.67,5.0,0.3,1233.35
+ORD-1062,2024-09-29,Customer_69,Consumer,Chicago,IL,Technology,Phone,Phone Model-13,363.47,8.0,0.2,2907.76
+ORD-1063,2024-04-17,Customer_24,Consumer,Chicago,IL,Technology,Laptop,Laptop Model-9,46.55,7.0,0.1,325.84999999999997
+ORD-1064,2023-10-12,Customer_97,Corporate,Miami,FL,Office Supplies,Paper,Paper Model-9,230.08,6.0,0.0,1380.48
+ORD-1065,2023-08-18,Customer_84,Consumer,Seattle,WA,Office Supplies,Binder,Binder Model-2,375.77,1.0,0.0,375.77
+ORD-1066,2023-09-02,Customer_17,Corporate,Chicago,IL,Furniture,Table,Table Model-4,420.42,10.0,0.2,4204.2
+ORD-1067,2024-09-12,Customer_78,Home Office,Chicago,IL,Furniture,Sofa,Sofa Model-4,351.24,6.0,0.0,2107.44
+ORD-1068,2024-02-11,Customer_92,Consumer,Miami,FL,Office Supplies,Binder,Binder Model-3,291.45,5.0,0.2,1457.25
+ORD-1069,2024-08-02,Customer_101,Consumer,Los Angeles,CA,Technology,Monitor,Monitor Model-12,55.44,5.0,0.2,277.2
+ORD-1070,2024-03-06,Customer_106,Corporate,New York,NY,Office Supplies,Pen Set,Pen Set Model-4,39.13,6.0,0.1,234.78000000000003
+ORD-1071,2024-06-18,Customer_84,Corporate,Chicago,IL,Office Supplies,Stapler,Stapler Model-20,355.12,7.0,0.2,2485.84
+ORD-1072,2023-11-27,Customer_110,Consumer,Phoenix,AZ,Office Supplies,Stapler,Stapler Model-3,220.61,6.0,0.0,1323.66
+ORD-1073,2023-12-11,Customer_4,Corporate,Miami,FL,Office Supplies,Paper,Paper Model-11,376.49,10.0,0.0,3764.9
+ORD-1074,2023-10-14,Customer_113,Home Office,Seattle,WA,Office Supplies,Paper,Paper Model-9,180.64,5.0,0.2,903.1999999999999
+ORD-1075,2024-07-22,Customer_98,Consumer,Denver,CO,Furniture,Table,Table Model-16,47.38,7.0,0.3,331.66
+ORD-1076,2023-10-29,Customer_29,Corporate,Los Angeles,CA,Technology,Phone,Phone Model-8,226.85,1.0,0.0,226.85
+ORD-1077,2024-03-11,Customer_96,Home Office,Seattle,WA,Technology,Printer,Printer Model-11,239.26,9.0,0.0,2153.34
+ORD-1078,2023-05-04,Customer_93,Consumer,Houston,TX,Technology,Phone,Phone Model-11,139.1,5.0,0.0,695.5
+ORD-1079,2024-08-26,Customer_98,Home Office,Phoenix,AZ,Technology,Monitor,Monitor Model-20,99.81,6.0,0.0,598.86
+ORD-1080,2023-11-06,Customer_2,Home Office,Chicago,IL,Furniture,Table,Table Model-18,151.64,6.0,0.0,909.8399999999999
+ORD-1081,2023-05-10,Customer_82,Corporate,Phoenix,AZ,Office Supplies,Binder,Binder Model-4,487.28,9.0,0.0,4385.5199999999995
+ORD-1082,2023-07-08,Customer_7,Corporate,Seattle,WA,Technology,Printer,Printer Model-16,237.35,8.0,0.0,1898.8
+ORD-1083,2023-06-05,Customer_20,Home Office,New York,NY,Furniture,Sofa,Sofa Model-10,248.41,10.0,0.0,2484.1
+ORD-1084,2024-06-19,Customer_49,Corporate,Houston,TX,Furniture,Chair,Chair Model-15,281.25,7.0,0.0,1968.75
+ORD-1085,2024-09-16,Customer_95,Consumer,New York,NY,Technology,Phone,Phone Model-7,156.16,10.0,0.3,1561.6
+ORD-1086,2023-06-27,Customer_71,Consumer,Houston,TX,Furniture,Bookcase,Bookcase Model-6,331.91,3.0,0.0,995.73
+ORD-1087,2023-02-03,Customer_30,Corporate,Phoenix,AZ,Office Supplies,Stapler,Stapler Model-10,346.24,8.0,0.3,2769.92
+ORD-1088,2024-03-11,Customer_15,Home Office,Unknown,TX,Office Supplies,Binder,Binder Model-8,345.26,5.0,0.3,1726.3
+ORD-1089,2023-06-19,Customer_102,Corporate,New York,NY,Furniture,Bookcase,Bookcase Model-20,414.18,2.0,0.3,828.36
+ORD-1090,2024-02-17,Customer_35,Home Office,Phoenix,AZ,Technology,Printer,Printer Model-18,222.38,8.0,0.1,1779.04
+ORD-1091,2024-09-10,Customer_33,Consumer,Seattle,WA,Office Supplies,Binder,Binder Model-3,301.03,7.0,0.0,2107.21
+ORD-1092,2023-06-29,Customer_61,Home Office,New York,NY,Technology,Laptop,Laptop Model-15,499.79,5.0,0.0,2498.9500000000003
+ORD-1093,2024-04-26,Customer_45,Corporate,Los Angeles,CA,Furniture,Sofa,Sofa Model-11,319.22,8.0,0.0,2553.76
+ORD-1094,2024-05-22,Customer_37,Home Office,Miami,FL,Technology,Laptop,Laptop Model-13,429.58,6.0,0.2,2577.48
+ORD-1095,2023-04-29,Customer_99,Corporate,Seattle,WA,Furniture,Sofa,Sofa Model-17,48.59,5.0,0.0,242.95000000000002
+ORD-1096,2024-09-29,Customer_97,Corporate,Seattle,WA,Technology,Phone,Phone Model-15,209.56,4.0,0.0,838.24
+ORD-1097,2024-05-11,Customer_16,Consumer,Denver,CO,Furniture,Bookcase,Bookcase Model-20,253.13,5.0,0.0,1265.65
+ORD-1098,2023-04-06,Customer_29,Consumer,Miami,FL,Technology,Monitor,Monitor Model-15,158.82,1.0,0.0,158.82
+ORD-1099,2024-03-01,Customer_107,Corporate,Phoenix,AZ,Technology,Monitor,Monitor Model-16,251.7,5.0,0.0,1258.5
+ORD-1100,2023-03-13,Customer_36,Corporate,Chicago,IL,Office Supplies,Paper,Paper Model-11,194.88,10.0,0.2,1948.8
+ORD-1101,2023-06-02,Customer_58,Home Office,Denver,CO,Office Supplies,Binder,Binder Model-16,145.01,5.0,0.0,725.05
+ORD-1102,2023-09-02,Customer_74,Corporate,Houston,TX,Office Supplies,Stapler,Stapler Model-8,230.4,6.0,0.1,1382.4
+ORD-1103,2024-11-10,Customer_102,Home Office,Miami,FL,Furniture,Bookcase,Bookcase Model-5,373.63,7.0,0.1,2615.41
+ORD-1104,2023-04-13,Customer_112,Corporate,Seattle,WA,Furniture,Table,Table Model-4,253.63,10.0,0.2,2536.3
+ORD-1105,2023-03-18,Customer_61,Corporate,Chicago,IL,Office Supplies,Binder,Binder Model-11,362.61,7.0,0.2,2538.27
+ORD-1106,2023-11-21,Customer_81,Home Office,Miami,FL,Technology,Phone,Phone Model-16,326.67,6.0,0.2,1960.02
+ORD-1107,2023-04-03,Customer_56,Consumer,Unknown,TX,Furniture,Chair,Chair Model-4,121.21,5.0,0.1,606.05
+ORD-1108,2023-02-27,Customer_38,Corporate,Seattle,WA,Furniture,Bookcase,Bookcase Model-12,452.19,1.0,0.1,452.19
+ORD-1109,2023-06-24,Customer_23,Consumer,Chicago,IL,Furniture,Table,Table Model-20,267.93,10.0,0.1,2679.3
+ORD-1110,2023-08-26,Customer_60,Home Office,Chicago,IL,Technology,Monitor,Monitor Model-9,251.35,10.0,0.1,2513.5
+ORD-1111,2024-11-24,Customer_70,Consumer,Phoenix,AZ,Office Supplies,Binder,Binder Model-3,449.96,8.0,0.1,3599.68
+ORD-1112,2024-04-12,Customer_109,Corporate,Phoenix,AZ,Office Supplies,Pen Set,Pen Set Model-7,253.13,7.0,0.1,1771.9099999999999
+ORD-1113,2024-08-11,Customer_38,Home Office,Seattle,WA,Office Supplies,Binder,Binder Model-10,122.42,10.0,0.0,1224.2
+ORD-1114,2024-09-12,Customer_96,Corporate,New York,NY,Technology,Phone,Phone Model-10,140.87,10.0,0.0,1408.7
+ORD-1115,2024-11-25,Customer_97,Home Office,Phoenix,AZ,Technology,Printer,Printer Model-5,113.41,4.0,0.3,453.64
+ORD-1116,2024-08-16,Customer_47,Home Office,New York,NY,Furniture,Chair,Chair Model-5,157.92,8.0,0.0,1263.36
+ORD-1117,2023-05-16,Customer_101,Home Office,Houston,TX,Office Supplies,Pen Set,Pen Set Model-12,375.0,3.0,0.0,1125.0
+ORD-1118,2023-10-30,Customer_96,Corporate,Denver,CO,Technology,Printer,Printer Model-4,416.08,5.0,0.1,2080.4
+ORD-1119,2024-07-24,Customer_47,Consumer,Miami,FL,Furniture,Table,Table Model-13,378.3,4.0,0.0,1513.2
+ORD-1120,2024-10-15,Customer_48,Consumer,Miami,FL,Office Supplies,Binder,Binder Model-8,230.12,6.0,0.1,1380.72
+ORD-1121,2024-10-12,Customer_106,Corporate,Los Angeles,CA,Furniture,Bookcase,Bookcase Model-10,458.05,4.0,0.3,1832.2
+ORD-1122,2024-05-19,Customer_15,Consumer,Phoenix,AZ,Office Supplies,Binder,Binder Model-8,74.19,1.0,0.2,74.19
+ORD-1123,2024-08-24,Customer_96,Home Office,Miami,FL,Furniture,Sofa,Sofa Model-5,229.55,9.0,0.1,2065.9500000000003
+ORD-1124,2023-10-14,Customer_5,Home Office,Miami,FL,Technology,Laptop,Laptop Model-12,417.68,10.0,0.0,4176.8
+ORD-1125,2024-01-12,Customer_70,Home Office,Los Angeles,CA,Office Supplies,Stapler,Stapler Model-12,475.52,6.0,0.0,2853.12
+ORD-1126,2023-04-04,Customer_85,Consumer,Denver,CO,Office Supplies,Pen Set,Pen Set Model-20,98.96,2.0,0.0,197.92
+ORD-1127,2023-03-12,Customer_107,Home Office,Houston,TX,Furniture,Bookcase,Bookcase Model-7,125.57,3.0,0.2,376.71
+ORD-1128,2023-10-11,Customer_110,Consumer,New York,NY,Furniture,Table,Table Model-5,167.64,3.0,0.2,502.91999999999996
+ORD-1129,2023-01-16,Customer_46,Consumer,Chicago,IL,Office Supplies,Paper,Paper Model-19,59.41,1.0,0.0,59.41
+ORD-1130,2024-06-22,Customer_15,Home Office,Miami,FL,Furniture,Table,Table Model-3,136.36,3.0,0.1,409.08000000000004
+ORD-1131,2024-05-30,Customer_29,Home Office,Denver,CO,Office Supplies,Pen Set,Pen Set Model-2,259.05,2.0,0.3,518.1
+ORD-1132,2024-05-05,Customer_109,Corporate,New York,NY,Technology,Printer,Printer Model-14,231.73,1.0,0.3,231.73
+ORD-1133,2023-03-24,Customer_42,Home Office,Los Angeles,CA,Furniture,Sofa,Sofa Model-5,357.64,8.0,0.0,2861.12
+ORD-1134,2024-01-26,Customer_77,Home Office,Seattle,WA,Furniture,Bookcase,Bookcase Model-10,314.04,10.0,0.1,3140.4
+ORD-1135,2024-03-16,Customer_58,Consumer,Houston,TX,Technology,Phone,Phone Model-14,54.09,2.0,0.0,108.18
+ORD-1136,2024-03-13,Customer_41,Home Office,Seattle,WA,Office Supplies,Stapler,Stapler Model-9,210.91,2.0,0.0,421.82
+ORD-1137,2024-03-18,Customer_13,Home Office,Los Angeles,CA,Furniture,Sofa,Sofa Model-12,38.23,6.0,0.0,229.38
+ORD-1138,2024-11-17,Customer_16,Corporate,Seattle,WA,Technology,Laptop,Laptop Model-12,295.3,9.0,0.3,2657.7000000000003
+ORD-1139,2023-12-27,Customer_14,Home Office,Unknown,AZ,Office Supplies,Binder,Binder Model-17,484.36,10.0,0.0,4843.6
+ORD-1140,2024-07-23,Customer_48,Consumer,Seattle,WA,Furniture,Sofa,Sofa Model-9,116.0,2.0,0.2,232.0
+ORD-1141,2024-09-15,Customer_119,Home Office,New York,NY,Furniture,Sofa,Sofa Model-9,423.35,10.0,0.0,4233.5
+ORD-1142,2023-12-26,Customer_1,Consumer,Seattle,WA,Furniture,Bookcase,Bookcase Model-5,253.13,5.0,0.2,1265.65
+ORD-1143,2024-06-27,Customer_28,Corporate,Los Angeles,CA,Technology,Phone,Phone Model-14,39.44,1.0,0.1,39.44
+ORD-1144,2023-02-23,Customer_20,Consumer,Los Angeles,CA,Office Supplies,Paper,Paper Model-20,188.18,6.0,0.0,1129.08
+ORD-1145,2024-09-13,Customer_57,Corporate,Denver,CO,Technology,Laptop,Laptop Model-9,139.69,7.0,0.0,977.8299999999999
+ORD-1146,2024-11-25,Customer_87,Home Office,Phoenix,AZ,Technology,Laptop,Laptop Model-16,175.86,2.0,0.2,351.72
+ORD-1147,2023-01-08,Customer_27,Corporate,New York,NY,Technology,Printer,Printer Model-7,27.48,7.0,0.0,192.36
+ORD-1148,2024-03-16,Customer_23,Consumer,Denver,CO,Office Supplies,Pen Set,Pen Set Model-13,167.42,1.0,0.2,167.42
+ORD-1149,2024-02-11,Customer_111,Home Office,Los Angeles,CA,Technology,Monitor,Monitor Model-2,252.63,6.0,0.1,1515.78
+ORD-1150,2024-08-10,Customer_52,Home Office,Miami,FL,Furniture,Sofa,Sofa Model-14,460.98,6.0,0.0,2765.88
+ORD-1151,2024-09-24,Customer_59,Home Office,Chicago,IL,Furniture,Sofa,Sofa Model-12,15.32,6.0,0.0,91.92
+ORD-1152,2024-06-20,Customer_11,Corporate,Miami,FL,Office Supplies,Binder,Binder Model-10,125.44,10.0,0.3,1254.4
+ORD-1153,2024-06-06,Customer_82,Consumer,Los Angeles,CA,Office Supplies,Paper,Paper Model-17,169.87,3.0,0.2,509.61
+ORD-1154,2023-04-16,Customer_19,Corporate,Houston,TX,Furniture,Bookcase,Bookcase Model-7,178.79,6.0,0.0,1072.74
+ORD-1155,2024-10-05,Customer_64,Corporate,Chicago,IL,Technology,Monitor,Monitor Model-19,381.31,2.0,0.2,762.62
+ORD-1156,2024-03-26,Customer_9,Corporate,Chicago,IL,Office Supplies,Pen Set,Pen Set Model-15,432.8,6.0,0.3,2596.8
+ORD-1157,2023-11-14,Customer_60,Corporate,Los Angeles,CA,Office Supplies,Pen Set,Pen Set Model-2,297.75,6.0,0.0,1786.5
+ORD-1158,2024-04-18,Customer_75,Home Office,Miami,FL,Office Supplies,Pen Set,Pen Set Model-2,42.98,2.0,0.1,85.96
+ORD-1159,2023-03-05,Customer_58,Consumer,Chicago,IL,Technology,Monitor,Monitor Model-11,164.16,8.0,0.3,1313.28
+ORD-1160,2024-06-20,Customer_67,Home Office,Denver,CO,Furniture,Table,Table Model-6,24.38,8.0,0.0,195.04
+ORD-1161,2024-10-08,Customer_83,Corporate,New York,NY,Office Supplies,Pen Set,Pen Set Model-3,196.77,6.0,0.0,1180.6200000000001
+ORD-1162,2023-12-08,Customer_11,Home Office,Chicago,IL,Furniture,Sofa,Sofa Model-5,145.65,10.0,0.0,1456.5
+ORD-1163,2024-07-26,Customer_49,Home Office,Phoenix,AZ,Office Supplies,Stapler,Stapler Model-11,68.83,2.0,0.0,137.66
+ORD-1164,2023-01-19,Customer_47,Corporate,Seattle,WA,Technology,Laptop,Laptop Model-6,324.78,7.0,0.0,2273.46
+ORD-1165,2023-03-21,Customer_38,Consumer,Chicago,IL,Office Supplies,Stapler,Stapler Model-17,100.04,3.0,0.2,300.12
+ORD-1166,2024-09-03,Customer_49,Consumer,Chicago,IL,Technology,Laptop,Laptop Model-6,332.65,10.0,0.0,3326.5
+ORD-1167,2024-01-09,Customer_87,Home Office,Miami,FL,Technology,Monitor,Monitor Model-8,361.99,1.0,0.1,361.99
+ORD-1168,2024-06-30,Customer_31,Corporate,Houston,TX,Technology,Printer,Printer Model-16,377.43,8.0,0.0,3019.44
+ORD-1169,2024-05-29,Customer_68,Corporate,Miami,FL,Office Supplies,Stapler,Stapler Model-6,233.53,5.0,0.0,1167.65
+ORD-1170,2024-01-16,Customer_71,Consumer,Denver,CO,Technology,Monitor,Monitor Model-17,437.14,1.0,0.0,437.14
+ORD-1171,2024-06-09,Customer_19,Corporate,Denver,CO,Office Supplies,Binder,Binder Model-3,382.74,5.0,0.0,1913.7
+ORD-1172,2024-02-10,Customer_65,Corporate,New York,NY,Office Supplies,Pen Set,Pen Set Model-8,465.58,7.0,0.1,3259.06
+ORD-1173,2024-10-27,Customer_43,Consumer,Los Angeles,CA,Furniture,Bookcase,Bookcase Model-5,116.15,6.0,0.0,696.9000000000001
+ORD-1174,2024-04-04,Customer_79,Consumer,Denver,CO,Office Supplies,Stapler,Stapler Model-3,349.56,3.0,0.0,1048.68
+ORD-1175,2023-04-24,Customer_100,Corporate,Miami,FL,Office Supplies,Paper,Paper Model-8,418.31,9.0,0.0,3764.79
+ORD-1176,2023-03-06,Customer_15,Corporate,Denver,CO,Furniture,Chair,Chair Model-20,123.03,10.0,0.2,1230.3
+ORD-1177,2023-01-02,Customer_79,Corporate,Miami,FL,Furniture,Table,Table Model-8,360.68,5.0,0.2,1803.4
+ORD-1178,2023-03-11,Customer_68,Home Office,Seattle,WA,Office Supplies,Paper,Paper Model-17,333.86,2.0,0.2,667.72
+ORD-1179,2024-10-12,Customer_50,Corporate,New York,NY,Technology,Laptop,Laptop Model-9,198.27,8.0,0.0,1586.16
+ORD-1180,2024-11-03,Customer_81,Consumer,Houston,TX,Furniture,Bookcase,Bookcase Model-19,395.32,6.0,0.3,2371.92
+ORD-1181,2024-10-20,Customer_23,Home Office,Seattle,WA,Office Supplies,Paper,Paper Model-15,253.13,9.0,0.3,2278.17
+ORD-1182,2023-02-07,Customer_38,Consumer,Denver,CO,Office Supplies,Paper,Paper Model-2,406.69,2.0,0.0,813.38
+ORD-1183,2024-07-10,Customer_61,Corporate,Miami,FL,Furniture,Bookcase,Bookcase Model-2,467.02,9.0,0.3,4203.18
+ORD-1184,2023-10-07,Customer_16,Corporate,Seattle,WA,Furniture,Bookcase,Bookcase Model-14,253.13,1.0,0.1,253.13
+ORD-1185,2023-07-11,Customer_64,Home Office,Seattle,WA,Technology,Phone,Phone Model-16,447.85,7.0,0.0,3134.9500000000003
+ORD-1186,2024-03-16,Customer_78,Consumer,Los Angeles,CA,Technology,Printer,Printer Model-18,401.57,7.0,0.0,2810.99
+ORD-1187,2024-04-01,Customer_78,Home Office,Phoenix,AZ,Office Supplies,Binder,Binder Model-14,44.63,5.0,0.0,223.15
+ORD-1188,2024-09-21,Customer_56,Corporate,Seattle,WA,Technology,Phone,Phone Model-2,179.02,1.0,0.0,179.02
+ORD-1189,2023-05-27,Customer_109,Home Office,New York,NY,Technology,Phone,Phone Model-15,184.84,3.0,0.0,554.52
+ORD-1190,2024-01-28,Customer_73,Consumer,Seattle,WA,Furniture,Chair,Chair Model-20,121.82,6.0,0.0,730.92
+ORD-1191,2023-03-20,Customer_74,Consumer,Denver,CO,Technology,Phone,Phone Model-17,474.67,6.0,0.0,2848.02
+ORD-1192,2023-01-27,Customer_95,Consumer,Los Angeles,CA,Office Supplies,Pen Set,Pen Set Model-16,326.53,4.0,0.2,1306.12
+ORD-1193,2023-08-08,Customer_79,Corporate,Denver,CO,Office Supplies,Binder,Binder Model-16,134.58,5.0,0.0,672.9000000000001
+ORD-1194,2024-03-31,Customer_12,Home Office,Chicago,IL,Furniture,Table,Table Model-11,427.15,8.0,0.3,3417.2
+ORD-1195,2023-06-11,Customer_92,Home Office,Phoenix,AZ,Office Supplies,Binder,Binder Model-6,277.25,5.0,0.0,1386.25
+ORD-1196,2023-08-31,Customer_102,Corporate,Chicago,IL,Technology,Monitor,Monitor Model-1,65.07,4.0,0.0,260.28
+ORD-1197,2024-09-18,Customer_114,Consumer,Chicago,IL,Technology,Printer,Printer Model-3,253.13,9.0,0.0,2278.17
+ORD-1198,2023-05-09,Customer_41,Home Office,Los Angeles,CA,Office Supplies,Stapler,Stapler Model-3,265.22,7.0,0.1,1856.5400000000002
+ORD-1199,2023-05-13,Customer_56,Home Office,Chicago,IL,Office Supplies,Pen Set,Pen Set Model-2,68.53,9.0,0.0,616.77
+ORD-1200,2023-08-19,Customer_45,Home Office,Seattle,WA,Technology,Monitor,Monitor Model-10,155.54,3.0,0.0,466.62
+ORD-1201,2023-05-09,Customer_81,Corporate,Phoenix,AZ,Office Supplies,Paper,Paper Model-20,319.35,9.0,0.2,2874.15
+ORD-1202,2023-06-25,Customer_85,Home Office,Chicago,IL,Furniture,Table,Table Model-20,297.95,10.0,0.0,2979.5
+ORD-1203,2023-02-16,Customer_83,Home Office,Los Angeles,CA,Technology,Laptop,Laptop Model-9,413.49,6.0,0.3,2480.94
+ORD-1204,2024-10-04,Customer_70,Corporate,Denver,CO,Furniture,Sofa,Sofa Model-10,310.96,1.0,0.1,310.96
+ORD-1205,2023-06-11,Customer_57,Corporate,Unknown,NY,Furniture,Sofa,Sofa Model-16,152.23,6.0,0.1,913.3799999999999
+ORD-1206,2023-12-20,Customer_52,Consumer,Seattle,WA,Furniture,Bookcase,Bookcase Model-12,305.3,6.0,0.2,1831.8000000000002
+ORD-1207,2023-10-01,Customer_58,Consumer,Los Angeles,CA,Technology,Laptop,Laptop Model-5,162.96,8.0,0.0,1303.68
+ORD-1208,2023-09-12,Customer_111,Consumer,Miami,FL,Furniture,Bookcase,Bookcase Model-11,472.97,10.0,0.2,4729.700000000001
+ORD-1209,2024-06-11,Customer_60,Corporate,Denver,CO,Technology,Printer,Printer Model-10,98.97,3.0,0.1,296.90999999999997
+ORD-1210,2023-09-04,Customer_28,Home Office,Denver,CO,Furniture,Chair,Chair Model-12,472.89,9.0,0.0,4256.01
+ORD-1211,2024-07-03,Customer_2,Consumer,Phoenix,AZ,Furniture,Bookcase,Bookcase Model-14,249.97,8.0,0.0,1999.76
+ORD-1212,2024-02-15,Customer_7,Home Office,Unknown,NY,Office Supplies,Pen Set,Pen Set Model-18,383.11,6.0,0.0,2298.66
+ORD-1213,2024-07-17,Customer_36,Home Office,Denver,CO,Office Supplies,Pen Set,Pen Set Model-20,41.4,9.0,0.0,372.59999999999997
+ORD-1214,2023-05-28,Customer_26,Home Office,Seattle,WA,Furniture,Chair,Chair Model-17,199.98,6.0,0.1,1199.8799999999999
+ORD-1215,2024-04-30,Customer_67,Corporate,Seattle,WA,Technology,Laptop,Laptop Model-5,27.43,3.0,0.2,82.28999999999999
+ORD-1216,2023-06-16,Customer_51,Home Office,Seattle,WA,Technology,Monitor,Monitor Model-10,167.34,10.0,0.2,1673.4
+ORD-1217,2023-01-18,Customer_48,Corporate,Denver,CO,Office Supplies,Stapler,Stapler Model-4,355.83,5.0,0.1,1779.1499999999999
+ORD-1218,2023-09-29,Customer_84,Home Office,Denver,CO,Technology,Printer,Printer Model-19,399.39,1.0,0.0,399.39
+ORD-1219,2023-06-01,Customer_106,Home Office,Miami,FL,Technology,Laptop,Laptop Model-8,293.84,3.0,0.0,881.52
+ORD-1220,2024-03-04,Customer_20,Corporate,Seattle,WA,Technology,Laptop,Laptop Model-7,99.44,8.0,0.1,795.52
+ORD-1221,2024-06-15,Customer_27,Home Office,Chicago,IL,Technology,Phone,Phone Model-11,437.04,1.0,0.3,437.04
+ORD-1222,2024-06-29,Customer_44,Home Office,Denver,CO,Office Supplies,Stapler,Stapler Model-12,160.31,3.0,0.3,480.93
+ORD-1223,2023-10-13,Customer_72,Corporate,Houston,TX,Technology,Printer,Printer Model-8,306.99,4.0,0.0,1227.96
+ORD-1224,2024-05-06,Customer_45,Home Office,Seattle,WA,Office Supplies,Paper,Paper Model-9,346.67,8.0,0.0,2773.36
+ORD-1225,2023-05-30,Customer_38,Consumer,Seattle,WA,Furniture,Sofa,Sofa Model-10,448.4,7.0,0.3,3138.7999999999997
+ORD-1226,2023-08-08,Customer_26,Home Office,Unknown,CO,Furniture,Bookcase,Bookcase Model-9,462.38,5.0,0.2,2311.9
+ORD-1227,2023-09-06,Customer_7,Home Office,Unknown,TX,Technology,Printer,Printer Model-17,72.95,10.0,0.0,729.5
+ORD-1228,2024-04-28,Customer_13,Home Office,Seattle,WA,Technology,Monitor,Monitor Model-5,30.98,7.0,0.0,216.86
+ORD-1229,2024-10-28,Customer_26,Corporate,Denver,CO,Technology,Monitor,Monitor Model-11,206.42,8.0,0.0,1651.36
+ORD-1230,2024-07-01,Customer_95,Home Office,Houston,TX,Technology,Laptop,Laptop Model-2,454.43,2.0,0.0,908.86
+ORD-1231,2024-05-22,Customer_24,Home Office,Miami,FL,Office Supplies,Paper,Paper Model-10,467.29,1.0,0.0,467.29
+ORD-1232,2023-10-19,Customer_59,Home Office,Seattle,WA,Furniture,Bookcase,Bookcase Model-18,286.14,2.0,0.2,572.28
+ORD-1233,2023-07-17,Customer_104,Consumer,Phoenix,AZ,Office Supplies,Paper,Paper Model-11,426.27,8.0,0.0,3410.16
+ORD-1234,2023-12-12,Customer_102,Corporate,New York,NY,Technology,Phone,Phone Model-19,325.9,3.0,0.3,977.6999999999999
+ORD-1235,2024-06-11,Customer_42,Consumer,Miami,FL,Furniture,Table,Table Model-13,307.42,7.0,0.0,2151.94
+ORD-1236,2023-09-12,Customer_1,Corporate,Seattle,WA,Furniture,Table,Table Model-13,490.93,8.0,0.0,3927.44
+ORD-1237,2023-09-25,Customer_84,Corporate,New York,NY,Office Supplies,Pen Set,Pen Set Model-8,477.25,5.0,0.0,2386.25
+ORD-1238,2024-05-29,Customer_119,Home Office,Miami,FL,Technology,Laptop,Laptop Model-10,235.37,3.0,0.3,706.11
+ORD-1239,2023-05-17,Customer_62,Consumer,Houston,TX,Furniture,Bookcase,Bookcase Model-15,186.93,4.0,0.3,747.72
+ORD-1240,2024-07-04,Customer_103,Home Office,Denver,CO,Technology,Printer,Printer Model-7,210.84,9.0,0.0,1897.56
+ORD-1241,2023-03-21,Customer_118,Home Office,Seattle,WA,Technology,Laptop,Laptop Model-4,265.13,9.0,0.0,2386.17
+ORD-1242,2023-12-02,Customer_110,Home Office,Chicago,IL,Technology,Monitor,Monitor Model-15,288.49,3.0,0.0,865.47
+ORD-1243,2024-06-06,Customer_58,Consumer,Los Angeles,CA,Technology,Monitor,Monitor Model-15,359.87,8.0,0.0,2878.96
+ORD-1244,2024-11-19,Customer_104,Corporate,Denver,CO,Technology,Phone,Phone Model-1,231.12,1.0,0.1,231.12
+ORD-1245,2023-02-16,Customer_55,Corporate,Los Angeles,CA,Office Supplies,Binder,Binder Model-3,374.17,10.0,0.2,3741.7000000000003
+ORD-1246,2023-10-21,Customer_53,Consumer,New York,NY,Furniture,Chair,Chair Model-5,493.14,8.0,0.3,3945.12
+ORD-1247,2024-01-22,Customer_49,Consumer,Denver,CO,Technology,Phone,Phone Model-18,190.36,7.0,0.0,1332.52
+ORD-1248,2024-06-25,Customer_17,Home Office,Miami,FL,Technology,Printer,Printer Model-8,63.72,9.0,0.0,573.48
+ORD-1249,2024-06-28,Customer_49,Consumer,Miami,FL,Furniture,Bookcase,Bookcase Model-8,234.19,9.0,0.1,2107.71
